@@ -17,4 +17,4 @@ This software sends alerts and nothing more. It also does that with your interne
 3. Twilio: This is required for SMS alerts. If you dont need SMS alerts then you only need the Python interpreter to run this script.
 
 
-# This is dedicated to the Savenode community (https://savenode.io)
+# This is dedicated to the Savenode community (https://discord.gg/C4qNshm)
