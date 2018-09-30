@@ -10,9 +10,9 @@ For the email function, you need a Gmail account and will also need to "allow le
 This software sends alerts and nothing more. It also does that with your internet connection and needs to keep running on either your local computer or vps server. Please do not base financial decisions on the reports of this software. For instance, you may run it on your server and go to bed hoping it will alert you, however, the program may have stopped for some reason. So please use your discretion if you'll ever use this software
 
 # Dependencies
-1. Python 3: Usually installed on Linux systems. If not installed, then install for your paarticular operating system.
+1. Python 3: Usually installed on Linux systems. If not installed, then install for your particular operating system.
 
-2. PIP: Package manage for Python. You need this to install the Twilio library
+2. PIP: Package manager for Python. You need this to install the Twilio library
 
 3. Twilio: This is required for SMS alerts. If you dont need SMS alerts then you only need the Python interpreter to run this script.
 
